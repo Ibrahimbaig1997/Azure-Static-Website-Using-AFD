@@ -1,3 +1,4 @@
+![alt text](image.png)
 # Azure Global Static Website (AFD + CDN + Blob Static Website)
 
 This project deploys a production‑grade global static site using two regions. Front Door provides global anycast, health probes, and failover between two CDN endpoints, each backed by a regionally hosted static website in Blob Storage.
